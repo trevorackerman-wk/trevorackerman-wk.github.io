@@ -4,7 +4,10 @@ You can use the [editor on GitHub](https://github.com/trevorackerman-wk/trevorac
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Delete Me](https://trevorackerman-wk.github.io/deleteme)
+### Delete Me is below????
+[Delete Me](https://trevorackerman-wk.github.io/deleteme) hibbity jibbity
+
+I love peanut butter sandwiches
 
 ### Markdown
 
