@@ -11,7 +11,10 @@ I love peanut butter sandwiches
 
 ### example partial
 
-<link rel="import" href="http://www.example.com">
+above
+<link rel="import" href="/deleteme">
+</br>
+below
 
 ### Markdown
 
